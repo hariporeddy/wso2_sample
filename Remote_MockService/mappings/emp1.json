@@ -1,0 +1,15 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/empcontext/employees/emp1"
+    },
+
+    "response" : {
+        "status" : 200,
+        "jsonBody" : {
+			 "Id" : "emp01",
+            "First Name": "First Name 01",
+            "Second Name": "Second Name 01"
+        }
+	}
+}

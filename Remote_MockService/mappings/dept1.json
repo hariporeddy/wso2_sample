@@ -1,0 +1,14 @@
+{
+    "request": {
+        "method": "GET",
+        "url": "/deptcontext/departments/dept1"
+    },
+
+    "response" : {
+        "status" : 200,
+        "jsonBody" : {
+			 "Id" : "dept01",
+            "Name": "testing"
+        }
+	}
+}
